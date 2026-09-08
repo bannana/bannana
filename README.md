@@ -1,31 +1,6 @@
-<!--
-====================================================
 
- GitHub 个人主页 README
-====================================================
-
-【怎么用】
-
-1. 新建一个仓库，仓库名必须和你 GitHub 用户名完全一致：bannana/bannana
-    （GitHub 会自动把该仓库的 README.md 展示为你的主页）
-2. 把这个文件内容填进那个仓库的 README.md 即可。
-
-【需要你个性化 / 注意的点】
-
-- 全文把 bannana 换成你的用户名（统计卡、头像都是用它）
-
-- 统计卡 / 最常用语言 / 连续提交 由外部服务实时生成，
-    首次加载可能慢几秒，属正常；在本地编辑器看不到图，需传到 GitHub 才渲染
-
-- 「最新文章」列表目前是手写静态链接；想自动同步博客最新 5 篇，
-
-    见文件底部注释里的 blog-post-workflow 方案
-    ====================================================
-
-    -->
 
 <div align="center">
-
 
 <img src="https://github.com/bannana.png?size=120" width="120" alt="avatar" />
 
@@ -41,7 +16,7 @@
 
 <br/>
 
-> ⚡ 自学折腾型选手 · 从 5 年级拆内存条，到 Serverless + 8 源站容灾搭建个人站
+> ⚡ 折腾型选手
 > 📅 写博客 **2022-01-21** 至今
 
 </div>
@@ -88,14 +63,11 @@
 
 <div align="center">
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bannana&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannana&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bannana&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -103,27 +75,10 @@
 
 > 🌐 **[hecloud.top](https://www.hecloud.top)** —— 一个跑在 Serverless 上的 Astro 静态站，文字在 GitHub、图片在 R2、评论走 Twikoo，Cloudflare Worker 多源站容灾。
 
-- [📄 内容发布全流程（写文章 + 推送上线）](https://www.hecloud.top/posts/maintenance-publishing/)
-- [🧮 pnpm 常用指令速查（本地开发与构建）](https://www.hecloud.top/posts/pnpm-commands-cheatsheet/)
-- [🖼️ R2 图床运营规范](https://www.hecloud.top/posts/r2-image-hosting-guide/)
-- [📝 相册与照片墙维护指南](https://www.hecloud.top/posts/maintenance-gallery/)
-- [💬 我和计算机](https://www.hecloud.top/posts/%E6%88%91%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA/)
-
-<!--
-  想自动同步最新博客文章？用 blog-post-workflow（gautamkrishnar）：
-  在 bannana/bannana 仓库建 .github/workflows/blog.yml，让 GitHub Actions
-  定期抓取 https://www.hecloud.top/rss.xml 填进下面两个标记之间即可。
--->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <div align="center">
 
-
 **✨ 欢迎来我的博客逛逛 → [hecloud.top](https://www.hecloud.top)** · 🐦 [X](https://x.com/snyxz1357) · 💼 [LinkedIn](https://www.linkedin.com/in/wujiahe/)
 
 <sub>博客已运行 since 2022-01-21 · 用 ❤️ 与 ☕ 维护</sub>
-
-</div>
