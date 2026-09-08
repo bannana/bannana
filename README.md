@@ -59,17 +59,36 @@
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+<a href="https://www.hecloud.top">
+  <img src="https://readme-typing-svg.demolab.com/?lines=把技术折腾+写成文字，把生活点滴留给照片;I'm+bannana+·+CS+Student+·+Hecloud+站长;Welcome+to+my+GitHub!+⚡&center=true&size=27&duration=3500" alt="Typing SVG" />
+</a>
+</div>
+
+<br/><br/>
 
 <div align="center">
+  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true" alt="star" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bannana&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannana&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" alt="wing-left" />
+  &emsp;
+  <img align="center" src="https://streak-stats.demolab.com/?user=bannana&theme=radical&hide_border=true" alt="GitHub Streak" />
+  &emsp;
+  <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" alt="wing-right" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bannana&theme=radical&hide_border=true)
-
----
+<!--
+  上方的 star / chibang 翅膀图暂时直接引用其它作者的仓库图床，随时可能失效。
+  三张图已下载到本地：Desktop/github-profile-assets/
+  建议上传主页时把它们一并放进 bannana/bannana 仓库（如 share/ 目录），
+  再把上面三个 img src 换成本仓库的 raw 地址，例如：
+  https://raw.githubusercontent.com/bannana/bannana/main/share/star.png （其余同理）
+  之后就不依赖别人的仓库了。
+-->
 
 ### 📝 我的博客 & 最近文章
 
@@ -82,3 +101,5 @@
 **✨ 欢迎来我的博客逛逛 → [hecloud.top](https://www.hecloud.top)** · 🐦 [X](https://x.com/snyxz1357) · 💼 [LinkedIn](https://www.linkedin.com/in/wujiahe/)
 
 <sub>博客已运行 since 2022-01-21 · 用 ❤️ 与 ☕ 维护</sub>
+
+</div>
