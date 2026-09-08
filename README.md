@@ -1,8 +1,5 @@
-
-
 <div align="center">
-
-<img src="https://github.com/bannana.png?size=120" width="120" alt="avatar" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 # 🍌 bannana
 
@@ -17,7 +14,7 @@
 <br/>
 
 > ⚡ 折腾型选手
-> 📅 写博客 **2022-01-21** 至今
+> 📅 博客 **2022-01-21** 至今
 
 </div>
 
@@ -34,28 +31,25 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-**Frontend / 博客**
+**Blog**
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**DevOps / Cloud**
-
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools / 日常**
+**Routines**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -68,26 +62,16 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true" alt="star" />
-</div>
-
-<br/>
-
-<div align="center">
   <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" alt="wing-left" />
   &emsp;
   <img align="center" src="https://streak-stats.demolab.com/?user=bannana&theme=radical&hide_border=true" alt="GitHub Streak" />
   &emsp;
   <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" alt="wing-right" />
 </div>
-
 <!--
-  上方的 star / chibang 翅膀图暂时直接引用其它作者的仓库图床，随时可能失效。
-  三张图已下载到本地：Desktop/github-profile-assets/
-  建议上传主页时把它们一并放进 bannana/bannana 仓库（如 share/ 目录），
-  再把上面三个 img src 换成本仓库的 raw 地址，例如：
-  https://raw.githubusercontent.com/bannana/bannana/main/share/star.png （其余同理）
-  之后就不依赖别人的仓库了。
+  翅膀图暂时直接引用其它作者的仓库图床，随时可能失效。
+  三张原图在 Desktop/github-profile-assets/，建议上传主页时一并放进 bannana/bannana 仓库，
+  再把上面两个 img src 换成自己仓库的 raw 地址。
 -->
 
 ### 📝 我的博客 & 最近文章
