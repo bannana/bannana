@@ -17,7 +17,14 @@
 > 📅 博客 **2022-01-21** 至今
 
 </div>
-
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bannana/bannana@main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bannana/bannana@main/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://cdn.jsdelivr.net/gh/bannana/bannana@main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 ---
 
 ### 🧰 Tech Stack
