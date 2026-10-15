@@ -60,11 +60,6 @@
 
 ---
 
-<div align="center">
-<a href="https://www.hecloud.top">
-  <img src="https://readme-typing-svg.demolab.com/?lines=把技术折腾+写成文字，把生活点滴留给照片;I'm+bannana+·+CS+Student+·+Hecloud+站长;Welcome+to+my+GitHub!+⚡&center=true&size=27&duration=3500" alt="Typing SVG" />
-</a>
-</div>
 
 <br/><br/>
 
