@@ -3,7 +3,7 @@
 
 # 🍌 bannana
 
-**记录技术折腾的博客站长** · CS Student · 🧱 Serverless 起高楼，静态构建一键走
+**记录技术折腾的博客站长** · SE Student
 
 [![Website](https://img.shields.io/badge/我的博客-hecloud.top-4F7EE4?style=for-the-badge&logo=astro&logoColor=white)](https://www.hecloud.top)
 [![X](https://img.shields.io/badge/X-@snyxz1357-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snyxz1357)
@@ -13,7 +13,6 @@
 
 <br/>
 
-> ⚡ 折腾型选手
 > 📅 博客 **2022-01-21** 至今
 
 </div>
@@ -84,8 +83,8 @@
 
 <div align="center">
 
-**✨ 欢迎来我的博客逛逛 → [hecloud.top](https://www.hecloud.top)** · 🐦 [X](https://x.com/snyxz1357) · 💼 [LinkedIn](https://www.linkedin.com/in/wujiahe/)
+🐦 [X](https://x.com/snyxz1357) · 💼 [LinkedIn](https://www.linkedin.com/in/wujiahe/)
 
-<sub>博客已运行 since 2022-01-21 · 用 ❤️ 与 ☕ 维护</sub>
+<sub>博客已运行 since 2022-01-21 · 用 ❤️ 维护</sub>
 
 </div>
